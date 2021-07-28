@@ -1,0 +1,19 @@
+/*------------ fonts ---------------*/
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+header h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+}
+.custom-clr-1{
+    color: #FA804C;
+}
+.custom-clr-2{
+    color: #363958;
+}
+.custom-img-bg{
+    background: #F1F1F1;
+}
